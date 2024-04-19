@@ -1,0 +1,121 @@
+---
+layout: default
+title: >
+    2011-08-21 - Re: [GRASE-Hotspot] City Wide Hotspot
+---
+
+# 2011-08-21 - Re: [GRASE-Hotspot] City Wide Hotspot
+
+## Header Data
+
+From: Raul Ocampo \<sp***d@ibahn.net.ph\><br>
+Message Hash: ca8af977cbec6bdc9cba5504aa0f14fd9dde85989bdffcb59dc8542181ad9bbe<br>
+Message ID: \<4E51F611.6060309@ibahn.net.ph\><br>
+Reply To: \<CAESLx0L1uk4yFvjhr3=d5VJXWfEC1_L9Q-u8i_NahwPZb2fOpw@mail.gmail.com\><br>
+UTC Datetime: 2011-08-21 23:24:17 UTC<br>
+Raw Date: Mon, 22 Aug 2011 14:24:17 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}Thanks Tim for your inputs.
+
+BTW we plan to use Ubiquiti equipment for the outdoor APs, no authentication
+on Layer 2 since this will be free WiFi. All authentication will be on 
+the Grase Hotspot.
+I have managed to modify configs of Grase to support VLANs, will have 
+different VLANs/subnets
+per Wireless Sector.
+Anyway if this project pushes thru will get the performance statistics.
+
+
+
+On 8/22/11 2:03 PM, Timothy White wrote:
+> Not currently.
+> The actual GRASE interface can manage as many users as you want. The
+> limitations are the network throughput of the machine, coova chilli
+> and in some ways the radius server due to all the accounting updates.
+> Look for performance on coova chilli and how many users it can handle,
+> and you'll get an idea of how many you can handle with GRASE.
+> However, I've not designed grase's interface with 1000's of users in
+> mind, even though the backends can handle it.
+>
+> Usually when running networks that might have more than say 200 user
+> on it, you'd be running a number of coova chilli machines as gateways,
+> rather than having all that traffic come back to a single machine.
+> You'd also be running the radius server(s) on separate machines to the
+> coova chilli gateways. And most likely, you'd have spent lots of money
+> on cisco hardware, or at least hardware that does WPA-EAP so users can
+> login securely.
+>
+> Having said all that, I see no reason that you couldn't have a few
+> hundred users off one coova chilli machine if it's got enough grunt,
+> enough network bandwidth, and enough ram. Currently the packages I'm
+> building only have a subnet of 254 ip addresses, so that's your limit
+> atm, but that is easily changed in the configs.
+>
+> Tim
+>
+> On Wed, Aug 17, 2011 at 1:52 PM, Raul Ocampo<sp***d@ibahn.net>  wrote:
+>> Hi,
+>>
+>> Anybody using Grase in Citywide Hotspot environment ?
+>> Just wanted to get feedback regarding performance, like how many online
+>> users can it handle ...
+>>
+>>
+>> thanks,
+>>
+>>
+>>
+>> --
+>> This message has been scanned for viruses and
+>> dangerous content by MailScanner, and is
+>> believed to be clean.
+>>
+>>
+>> ------------------------------------------------------------------------------
+>> Get a FREE DOWNLOAD! and learn more about uberSVN rich system,
+>> user administration capabilities and model configuration. Take
+>> the hassle out of deploying and managing Subversion and the
+>> tools developers use with it. http://p.sf.net/sfu/wandisco-d2d-2
+>> _______________________________________________
+>> Grase-hotspot mailing list
+>> Gr***t@lists.sourceforge.net
+>> https://lists.sourceforge.net/lists/listinfo/grase-hotspot
+>>
+> ------------------------------------------------------------------------------
+> uberSVN's rich system and user administration capabilities and model
+> configuration take the hassle out of deploying and managing Subversion and
+> the tools developers use with it. Learn more about uberSVN and get a free
+> download at:  http://p.sf.net/sfu/wandisco-dev2dev
+> _______________________________________________
+> Grase-hotspot mailing list
+> Gr***t@lists.sourceforge.net
+> https://lists.sourceforge.net/lists/listinfo/grase-hotspot
+>
+
+
+-- 
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 2011](/archive/2011/08)
+
++ Return to "[Raul Ocampo <sp***d<span>@</span>ibahn.net>](/authors/sp___d_at_ibahn_net)"
++ Return to "[Raul Ocampo <sp***d<span>@</span>ibahn.net.ph>](/authors/sp___d_at_ibahn_net_ph)"
++ Return to "[Timothy White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
+
++ 2011-08-16 (Wed, 17 Aug 2011 11:52:45 +0800) - [[GRASE-Hotspot] City Wide Hotspot](/archive/2011/08/53b5a42ec14157a39f150297724eeeab341f5b75a7427b1f128ba0193885adce) - _Raul Ocampo \<sp***d@ibahn.net\>_
+  + 2011-08-21 (Mon, 22 Aug 2011 16:03:26 +1000) - [Re: [GRASE-Hotspot] City Wide Hotspot](/archive/2011/08/21ee40feac275bc62c2887d0d01b88f969ccab7068dc88a8509031276b37c916) - _Timothy White \<ti***8@gmail.com\>_
+    + 2011-08-21 (Mon, 22 Aug 2011 14:24:17 +0800) - Re: [GRASE-Hotspot] City Wide Hotspot - _Raul Ocampo \<sp***d@ibahn.net.ph\>_
+

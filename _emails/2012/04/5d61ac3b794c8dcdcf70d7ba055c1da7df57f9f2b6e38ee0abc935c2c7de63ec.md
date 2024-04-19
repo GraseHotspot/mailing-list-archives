@@ -1,0 +1,109 @@
+---
+layout: default
+title: >
+    2012-04-18 - Re: [GRASE-Hotspot] squid DNS timeout
+---
+
+# 2012-04-18 - Re: [GRASE-Hotspot] squid DNS timeout
+
+## Header Data
+
+From: Aan \<pa***s@yahoo.com\><br>
+Message Hash: 5d61ac3b794c8dcdcf70d7ba055c1da7df57f9f2b6e38ee0abc935c2c7de63ec<br>
+Message ID: \<1334807809.33861.YahooMailNeo@web161603.mail.bf1.yahoo.com\><br>
+Reply To: \<4F8CACA7.6070200@gmail.com\><br>
+UTC Datetime: 2012-04-18 20:56:49 UTC<br>
+Raw Date: Wed, 18 Apr 2012 20:56:49 -0700<br>
+
+## Raw message
+
+```
+{% raw  %}Thanks for the response.
+how to check if i have issue with UDP packet?
+thing i know is:
+1. download or chat --> ok, there is no problem at all.
+2. browsing --> sometimes give error "DNS timeout" with squid logo. 
+
+the thing i have tried:
+1. disable dnsmasq and baypassing it --> didn't work
+2. reinstall my ubuntu and fresh install grase --> it work for a week now with rarely error.
+
+but like to try how to disable the use of squid, just in case the problem still occur in a near future.
+Thanks
+
+
+
+________________________________
+ From: Tim White <ti***8@gmail.com>
+To: GRASE Hotspot General Discussions <gr***t@lists.sourceforge.net> 
+Sent: Tuesday, 17 April 2012, 6:35
+Subject: Re: [GRASE-Hotspot] squid DNS timeout
+ 
+
+Hi Aan.
+This is an odd error. You'd assume if it was dnsmasq that was the
+    problem, then bypassing that would fix it. Given that other things
+    don't have the problem, this sounds like a squid problem. Maybe you
+    have UDP packet issues? I'd try things like increasing squid timeout
+    for DNS. It's also possible that the upstream DNS server is having
+    problems.
+
+What Squid version are you using? You can disable the use of squid
+    (remove the transparent proxy firewall rules) if it's a big issue,
+    but you loose the logging of what users goto and the caching.
+
+Tim
+
+On 12/04/12 16:27, Aan wrote: 
+Hi.. 
+>
+>i don't know if it's just me.. i (think) have a problem with squid. when i browse some site, sometimes it showing error page like " DNS return, timeout" with squid logo in it.
+>it back to normal if i restart the server, but around 30minutes, the error back again.
+>then i change squid DNS setting to manual seting into google public DNS (disable dnsmasq for a while). but the problem still exist.
+>the problem will gone for a while if i restart my ubuntu.
+>i dont know whats wrong.. anyone can help?
+>i'm running ubuntu 11.10 natty dekstop version, 32bit.
+>and using google public dns (8.8.8.8 ; 8.8.4.4)
+>
+>note:
+>1. i'm realize that gtalk, yahoo messenger and other
+          "messaging service" do not affected by this error, i still can
+          chat even i cant browse T_T
+>2. the error exist on client side, when i tried browse
+          directly on my ubuntu server, there is no problem at all
+>
+>
+>
+>------------------------------------------------------------------------------
+For Developers, A Lot Can Happen In A Second.
+Boundary is the first to Know...and Tell You.
+Monitor Your Applications in Ultra-Fine Resolution. Try it FREE! http://p.sf.net/sfu/Boundary-d2dvs2
+>
+>
+>_______________________________________________
+Grase-hotspot mailing list Gr***t@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/grase-hotspot 
+
+------------------------------------------------------------------------------
+For Developers, A Lot Can Happen In A Second.
+Boundary is the first to Know...and Tell You.
+Monitor Your Applications in Ultra-Fine Resolution. Try it FREE!
+http://p.sf.net/sfu/Boundary-d2dvs2
+
+_______________________________________________
+Grase-hotspot mailing list
+Gr***t@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/grase-hotspot{% endraw %}
+```
+
+## Thread
+
++ Return to [April 2012](/archive/2012/04)
+
++ Return to "[Aan <pa***s<span>@</span>yahoo.com>](/authors/pa___s_at_yahoo_com)"
++ Return to "[Tim White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
+
++ 2012-04-11 (Wed, 11 Apr 2012 23:27:44 -0700) - [[GRASE-Hotspot] squid DNS timeout](/archive/2012/04/8ba9adceaff072f9ae5c33c44592a7fb302aa7feaf8d21c85da076af55a03e60) - _Aan \<pa***s@yahoo.com\>_
+  + 2012-04-16 (Tue, 17 Apr 2012 09:35:03 +1000) - [Re: [GRASE-Hotspot] squid DNS timeout](/archive/2012/04/c3a3639968df72ae5cffb6da7e32928b2608814e7914ea688728b711d1eb3973) - _Tim White \<ti***8@gmail.com\>_
+    + 2012-04-18 (Wed, 18 Apr 2012 20:56:49 -0700) - Re: [GRASE-Hotspot] squid DNS timeout - _Aan \<pa***s@yahoo.com\>_
+      + 2012-04-22 (Sun, 22 Apr 2012 21:10:29 -0700) - [[GRASE-Hotspot] Fw:  squid DNS timeout](/archive/2012/04/f5a59b722b6e3ea79d26173bd02bcbbd77a57465c26d10391d2bea78ed98597b) - _Aan \<pa***s@yahoo.com\>_
+

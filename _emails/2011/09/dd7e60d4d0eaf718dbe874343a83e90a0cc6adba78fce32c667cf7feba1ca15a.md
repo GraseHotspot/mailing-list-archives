@@ -1,0 +1,46 @@
+---
+layout: default
+title: >
+    2011-09-25 - Re: [GRASE-Hotspot] RADMIN User-management
+---
+
+# 2011-09-25 - Re: [GRASE-Hotspot] RADMIN User-management
+
+## Header Data
+
+From: Tim White \<ti***8@gmail.com\><br>
+Message Hash: dd7e60d4d0eaf718dbe874343a83e90a0cc6adba78fce32c667cf7feba1ca15a<br>
+Message ID: \<4E7FEAFF.5000101@gmail.com\><br>
+Reply To: \<CAHc2qRQUJTNC=e0NedER4ws4q+1Ps=kfAfhhHhkq8CayN6d2EA@mail.gmail.com\><br>
+UTC Datetime: 2011-09-25 20:01:19 UTC<br>
+Raw Date: Mon, 26 Sep 2011 13:01:19 +1000<br>
+
+## Raw message
+
+```
+{% raw  %}On 16/09/11 19:50, Stephan Stein wrote:
+> hi
+>
+> is the a way to configure a user, which only can add new Users?
+> No groups, no settings only create user.
+>
+>
+Not currently, but it's planned for the future.
+
+Tim
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [September 2011](/archive/2011/09)
+
++ Return to "[Stephan Stein <st***n<span>@</span>gmx.de>](/authors/st___n_at_gmx_de)"
++ Return to "[Tim White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
+
++ 2011-09-16 (Fri, 16 Sep 2011 11:50:34 +0200) - [[GRASE-Hotspot] RADMIN User-management](/archive/2011/09/a0481997670f36fa7bd7842b76062c295cb5f80c343935ec62ded653c8f4339e) - _Stephan Stein \<st***n@gmx.de\>_
+  + 2011-09-25 (Mon, 26 Sep 2011 13:01:19 +1000) - Re: [GRASE-Hotspot] RADMIN User-management - _Tim White \<ti***8@gmail.com\>_
+

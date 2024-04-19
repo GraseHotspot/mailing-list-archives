@@ -1,0 +1,64 @@
+---
+layout: default
+title: >
+    2015-10-11 - Re: User cookie - remember
+---
+
+# 2015-10-11 - Re: User cookie - remember
+
+## Header Data
+
+From: Eliot Ness \<sc***7@googlemail.com\><br>
+Message Hash: eea7e7556f17a174a79bc0cc85b1c1c555cf1a8ade7bf5d5aaffa0ee413f9db7<br>
+Message ID: \<7717ade1-f7b7-4e5f-9cdb-1187158d5505@grasehotspot.org\><br>
+Reply To: \<0812a24a-1051-402f-b9b9-d59c568ebe3b@grasehotspot.org\><br>
+UTC Datetime: 2015-10-11 09:28:45 UTC<br>
+Raw Date: Sun, 11 Oct 2015 09:28:45 -0700<br>
+
+## Raw message
+
+```
+{% raw  %}Yeap. fixed after a lot of changes, and a little bit more attention on 
+coova chilli wiki.
+I have to say that if no server reboot - restart, owner of ticket got same 
+ip for days that got voucher, and no logout at all . PERFECT.
+Still on nightly ( i like it ) and test are on.
+Soon when finish, i will post details of changes, including squid 
+configurations and of course wds to cover longer area
+
+On Saturday, October 3, 2015 at 3:54:54 PM UTC+3, Eliot Ness wrote:
+>
+> Back again and new install on 14.04 srv and this time nightly build on 
+> test.
+>
+> Nice new addons, but i wanna ask:
+> Is there any choice to remember user? What i mean for example you create a 
+> voucher to expire in 10 days.
+> But when user go away from your network, and return back after 1 - 2 hours 
+> login screen come up again.
+> It will be great to re-activate without have to login again
+>
+> The only choice to not ask for login i find is by"computer account" mac 
+> adr. but this is not what i look for.
+>
+> Anybody find something how to?
+>
+{% endraw %}
+```
+
+## Thread
+
++ Return to [October 2015](/archive/2015/10)
+
++ Return to "[Eliot Ness <sc***7<span>@</span>googlemail.com>](/authors/sc___7_at_googlemail_com)"
++ Return to "[Timothy White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
++ Return to "[Edward Allen <yb***j<span>@</span>gmail.com>](/authors/yb___j_at_gmail_com)"
+
++ 2015-10-03 (Sat, 03 Oct 2015 05:54:54 -0700) - [User cookie - remember](/archive/2015/10/66923db3fe53ff92d6d01ddd6edbb43df42b7b638e0f3125480c55f1b0c2dd58) - _Eliot Ness \<sc***7@googlemail.com\>_
+  + 2015-10-03 (Sat, 03 Oct 2015 13:17:42 +0000) - [Re: [GRASE-Hotspot] User cookie - remember](/archive/2015/10/825a971b25fb3285a339de8db5813ce764893ee752d0fcef219f9616eb7b5674) - _Edward Allen \<yb***j@gmail.com\>_
+  + 2015-10-03 (Sat, 03 Oct 2015 06:40:49 -0700) - [Re: User cookie - remember](/archive/2015/10/835b25c8d5337e1136226decbad0d7fad4fded44aed7772ba89d2ccc4ee97de8) - _Eliot Ness \<sc***7@googlemail.com\>_
+    + 2015-10-04 (Mon, 05 Oct 2015 06:35:14 +1000) - [Re: [GRASE-Hotspot] Re: User cookie - remember](/archive/2015/10/3395fa12f2ff20a94925e0da0623ec9d3a9a297ce4f9a866a0550c50a9388d8f) - _Timothy White \<ti***8@gmail.com\>_
+  + 2015-10-04 (Sun, 04 Oct 2015 13:58:12 -0700) - [Re: User cookie - remember](/archive/2015/10/46b0f270b1c972e33e225371e7c8d2b8cac879bcb1d54d8de18d2ebcf12f22f9) - _Eliot Ness \<sc***7@googlemail.com\>_
+    + 2015-10-04 (Mon, 05 Oct 2015 07:22:24 +1000) - [Re: [GRASE-Hotspot] Re: User cookie - remember](/archive/2015/10/5a19b5e64d912ff52d3d0173501c87ee1e1893619b622f70e5b23cb0ff64a4da) - _Timothy White \<ti***8@gmail.com\>_
+  + 2015-10-11 (Sun, 11 Oct 2015 09:28:45 -0700) - Re: User cookie - remember - _Eliot Ness \<sc***7@googlemail.com\>_
+

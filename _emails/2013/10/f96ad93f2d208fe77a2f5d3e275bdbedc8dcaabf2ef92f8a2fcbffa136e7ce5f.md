@@ -1,0 +1,92 @@
+---
+layout: default
+title: >
+    2013-10-03 - [GRASE-Hotspot] Antwort: Re:  how to delete walled garden sites
+---
+
+# 2013-10-03 - [GRASE-Hotspot] Antwort: Re:  how to delete walled garden sites
+
+## Header Data
+
+From: th***o@staedteregion-aachen.de<br>
+Message Hash: f96ad93f2d208fe77a2f5d3e275bdbedc8dcaabf2ef92f8a2fcbffa136e7ce5f<br>
+Message ID: \<OF38B6289F.1E398500-ONC1257BF9.007D18AF-C1257BF9.007D9942@kreis-aachen.intern\><br>
+Reply To: \<CAESLx0+cju68-Bcdkp=D1yWwM5ofUPRqkFQsv1Ak_SxmXNGTSA@mail.gmail.com\><br>
+UTC Datetime: 2013-10-03 15:51:52 UTC<br>
+Raw Date: Fri, 04 Oct 2013 00:51:52 +0200<br>
+
+## Raw message
+
+```
+{% raw  %}Hi Tim,
+
+thanks for your reply. Yes, I have the minus button. But what if I can't
+remember the sites previously added
+or if some other admin added sites we dont't want to be accessed anymore.
+Is there a way to list/view them?
+
+
+CU,
+
+Thomas
+
+
+
+                                                                                                                       
+  Von:        Timothy White <ti***8@gmail.com>                                                                     
+                                                                                                                       
+  An:         GRASE Hotspot <gr***t@lists.sourceforge.net>                                                      
+                                                                                                                       
+  Datum:      02.10.2013 07:51                                                                                         
+                                                                                                                       
+  Betreff:    Re: [GRASE-Hotspot] how to delete walled garden sites                                                    
+                                                                                                                       
+
+
+
+
+
+The same place you add them should have a minus button to delete them.
+
+
+Tim
+
+
+On Oct 2, 2013 1:19 AM, <th***o@staedteregion-aachen.de> wrote:
+
+      Hi Grase Hotspot Users (and Admins),
+
+      it seems to me, that there is no way to delete previously allowed
+      walled
+      garden hosts and domains.
+      I can add them but the web gui doesn't have an option to view and/or
+      delete
+      these...
+      I know, it must be somewhere in the coova chilli config file jungle,
+      but
+      where?
+      thamks in advance,
+
+      Thomas
+
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [October 2013](/archive/2013/10)
+
++ Return to "[th***o<span>@</span>staedteregion-aachen.de](/authors/th___o_at_staedteregionaachen_de)"
++ Return to "[Timothy White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
+
++ 2013-10-01 (Tue, 01 Oct 2013 17:00:40 +0200) - [[GRASE-Hotspot] how to delete walled garden sites](/archive/2013/10/037742f3395ca3a70e4840576b233c37c72f960e5c0b0b4c70ba520d5f5fa3b6) - _th***o@staedteregion-aachen.de_
+  + 2013-10-01 (Wed, 02 Oct 2013 15:50:18 +1000) - [Re: [GRASE-Hotspot] how to delete walled garden sites](/archive/2013/10/e63141a43558f7b1ad008b39746b4210f18f1f1db68147e3707e7ca54506f982) - _Timothy White \<ti***8@gmail.com\>_
+    + 2013-10-03 (Fri, 04 Oct 2013 00:51:52 +0200) - [GRASE-Hotspot] Antwort: Re:  how to delete walled garden sites - _th***o@staedteregion-aachen.de_
+      + 2013-10-03 (Fri, 04 Oct 2013 11:37:13 +1000) - [Re: [GRASE-Hotspot] Antwort: Re: how to delete walled garden sites](/archive/2013/10/bd01a803e19802abd69c97289735279fe92cd62fc73815b44d5d5941faeadf00) - _Timothy White \<ti***8@gmail.com\>_
+        + 2013-10-04 (Fri, 04 Oct 2013 12:49:56 +0200) - [[GRASE-Hotspot] Antwort: Re: Antwort: Re: how to delete walled	garden sites](/archive/2013/10/36a41c94f8032e3862207427cc67d3d756b4f194a1ffa848f61a7425c3a8511d) - _th***o@staedteregion-aachen.de_
+

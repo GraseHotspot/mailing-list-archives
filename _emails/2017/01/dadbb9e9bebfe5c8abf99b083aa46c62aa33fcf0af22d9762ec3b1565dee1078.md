@@ -1,0 +1,68 @@
+---
+layout: default
+title: >
+    2017-01-02 - DHCP problem
+---
+
+# 2017-01-02 - DHCP problem
+
+## Header Data
+
+From: tomas213 \<to***3@gmail.com\><br>
+Message Hash: dadbb9e9bebfe5c8abf99b083aa46c62aa33fcf0af22d9762ec3b1565dee1078<br>
+Message ID: \<616f6fe7-25f9-4b8b-9e56-3b291a966ac5@grasehotspot.org\><br>
+Reply To: _N/A_<br>
+UTC Datetime: 2017-01-02 06:13:19 UTC<br>
+Raw Date: Mon, 02 Jan 2017 05:13:19 -0800<br>
+
+## Raw message
+
+```
+{% raw  %}Hello!
+Have a great year to everyone!!
+
+
+I'm reposting again since I had no reply from the past.
+
+My Grase installation has this problem : I have 2 network cards with, the 
+one with ip 10.1.0.1 and the second with my lan ip.
+DHCP server keeps sending requests on my lan and for that reason, i get all 
+the 10.1.0.1 range full after a while and no other can connect.
+
+
+15:11:37 coova-chilli[7406]: chilli.c: 5117: New DHCP request from 
+MAC=B8-38-61-83-E4-C1
+Jan  2 15:11:37 coova-chilli[7406]: chilli.c: 5005: Client 
+MAC=B8-38-61-83-E4-C1 assigned IP 10.1.0.174
+
+I have to restart chilli server.
+
+Any ideas on what to check?
+
+Thank you
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [January 2017](/archive/2017/01)
+
++ Return to "[Hotspotuser <jo***s<span>@</span>algardata.pt>](/authors/jo___s_at_algardata_pt)"
++ Return to "[Timothy White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
++ Return to "[tomas213 <to***3<span>@</span>gmail.com>](/authors/to___3_at_gmail_com)"
+
++ 2017-01-02 (Mon, 02 Jan 2017 05:13:19 -0800) - DHCP problem - _tomas213 \<to***3@gmail.com\>_
+  + 2017-01-02 (Mon, 02 Jan 2017 10:35:15 -0800) - [Re: DHCP problem](/archive/2017/01/6a0d0d412bd9e1d615415834b9b1e79a995b3e265643a0618cf54141c07651fc) - _Hotspotuser \<jo***s@algardata.pt\>_
+    + 2017-01-02 (Mon, 02 Jan 2017 10:35:59 -0800) - [Re: DHCP problem](/archive/2017/01/0ec152c3efbaa3b445fc8f48401938fc672364ca484981b1f9256b29fb21b003) - _Hotspotuser \<jo***s@algardata.pt\>_
+      + 2017-01-04 (Wed, 04 Jan 2017 13:10:49 +0200) - [Re: [GRASE-Hotspot] Re: DHCP problem](/archive/2017/01/d7b61ec5370ccdf3cff8a1622ce6dc86e76f52d5649eb9f49a1f8170a01bfa94) - _tomas213 \<to***3@gmail.com\>_
+  + 2017-01-04 (Thu, 05 Jan 2017 06:32:17 +1000) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/0c8e23c6f2153ebcc245d12b9edc07e803de1ca0ad516282a90c2256f87cb9d7) - _Timothy White \<ti***8@gmail.com\>_
+    + 2017-01-05 (Thu, 05 Jan 2017 12:51:57 +0200) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/522753eea3dd58cc53ecce7129d2a5bf281c031fbe96660ac3ad8753366a8e9b) - _tomas213 \<to***3@gmail.com\>_
+      + 2017-01-05 (Thu, 05 Jan 2017 21:49:46 +1000) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/e6694bee8ce2cfe53f17770bb3f62d558879a3a835097b0160011bfdb34d0df2) - _Timothy White \<ti***8@gmail.com\>_
+        + 2017-01-05 (Thu, 05 Jan 2017 21:51:52 +1000) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/e7e609210d4e1d2bfd4c85bdff0f7a3f76bd63ff4f6a3443c8148b3bd579a48c) - _Timothy White \<ti***8@gmail.com\>_
+          + 2017-01-05 (Thu, 05 Jan 2017 14:06:59 +0200) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/38ba95d065bdc137b015aba6670db099159730d97a13988d71feb1689cf43b90) - _tomas213 \<to***3@gmail.com\>_
+            + 2017-01-05 (Thu, 05 Jan 2017 14:37:33 +0200) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/e79c93dcf312115235a550b11079dcb2ef2ed787ad97a548121efba0bad7dee6) - _tomas213 \<to***3@gmail.com\>_
+      + 2017-01-18 (Wed, 18 Jan 2017 03:08:29 -0800) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/b122521440ed8d825e556ab67dffa3ed778de26b7a1566028931f25c8d8cfcdd) - _tomas213 \<to***3@gmail.com\>_
+        + 2017-01-20 (Fri, 20 Jan 2017 21:09:12 +1000) - [Re: [GRASE-Hotspot] DHCP problem](/archive/2017/01/114c186a9ef456067a2bacc033a5562fcc1ce73c313827bfbf4eca736103d83b) - _Timothy White \<ti***8@gmail.com\>_
+

@@ -1,0 +1,106 @@
+---
+layout: default
+title: >
+    2015-08-23 - Re: [GRASE-Hotspot] Re: Translate the usermin page
+---
+
+# 2015-08-23 - Re: [GRASE-Hotspot] Re: Translate the usermin page
+
+## Header Data
+
+From: Luis Alberto \<l.***g@gmail.com\><br>
+Message Hash: 6e6dd55a1b1dedaac947491d959dbe8fef0bc79ea5bafd4a5588b2e5ed4c818d<br>
+Message ID: \<CAF3s1W-_wCPR2HfboWkSoLpOia=ZyH6bGNaETkbeYAj-J2GkFg@mail.gmail.com\><br>
+Reply To: \<12ae8bb1-3288-44bc-a660-19bf106e7065@grasehotspot.org\><br>
+UTC Datetime: 2015-08-23 00:39:02 UTC<br>
+Raw Date: Sun, 23 Aug 2015 02:39:02 -0500<br>
+
+## Raw message
+
+```
+{% raw  %}¿Seguro?
+
+¿Hablamos de lo mismo?, no me refiero al sitio radmin (o cuenta
+administrativa), si no el usermin el espacio para los usuarios del hotspot,
+donde pueden incluso cambiar su contraseña.
+
+¿Podrías confirmar que en tu configuración el cambiar a "es" también afecta
+es sitio de tus usuarios de hotspot?
+
+Lo digo por que ya tengo esa configuración colocada en "es" y ese espacio
+sigue en inglés.
+Saludos.
+
+On Sun, Aug 23, 2015 at 1:14 AM, Domingo Gómez <do***s@gmail.com>
+wrote:
+
+>
+> <https://lh3.googleusercontent.com/-nH376eArEks/VdlkstTbA9I/AAAAAAAAB8k/5P3IMUJUAQM/s1600/nov.png>
+>
+> Basta con ir a configuración, local y reemplazar el tex del idioma inglés
+> por "es"
+> El lunes, 17 de agosto de 2015, 2:28:52 (UTC-4), Luis Alberto Guzman
+> Garcia escribió:
+>>
+>> Hi!
+>> I'm using the 3.8.0~rc1 grase suite release, and i see that most of it is
+>> translated.
+>>
+>> But i see that the users interface is not.
+>>
+>> $IP/grase/radmin/usermin
+>>
+>> Is there a file that i could add translations so they are enabled? or are
+>> they not yet implemented.
+>> So in order to get it translate do i need to hard/hand translate some
+>> file for it to show up?
+>>
+>> In any case which file sould i be looking for?
+>>
+>> Thanks.
+>>
+>> BTW, i'm also helping on transferix so maybe next week we'll hit 100% on
+>> Spanish :)
+>>
+>> Cheers!
+>> --
+>> Luis
+>>
+> --
+> This mailing list is for the Grase Hotspot Project http://grasehotspot.org
+> ---
+> You received this message because you are subscribed to the Google Groups
+> "Grase Hotspot" group.
+> To unsubscribe from this group and stop receiving emails from it, send an
+> email to gr***e@grasehotspot.org.
+> To post to this group, send email to gr***t@grasehotspot.org.
+> Visit this group at
+> http://groups.google.com/a/grasehotspot.org/group/grase-hotspot/.
+> To view this discussion on the web visit
+> https://groups.google.com/a/grasehotspot.org/d/msgid/grase-hotspot/12ae8bb1-3288-44bc-a660-19bf106e7065%40grasehotspot.org
+> <https://groups.google.com/a/grasehotspot.org/d/msgid/grase-hotspot/12ae8bb1-3288-44bc-a660-19bf106e7065%40grasehotspot.org?utm_medium=email&utm_source=footer>
+> .
+>
+
+
+
+-- 
+*Luis A. Guzmán García*
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 2015](/archive/2015/08)
+
++ Return to "[Domingo Gómez <do***s<span>@</span>gmail.com>](/authors/do___s_at_gmail_com)"
++ Return to "[Luis Alberto <l.***g<span>@</span>gmail.com>](/authors/l____g_at_gmail_com)"
++ Return to "[Luis Alberto Guzman Garcia <l.***g<span>@</span>gmail.com>](/authors/l____g_at_gmail_com)"
++ Return to "[Timothy White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
+
++ 2015-08-16 (Sun, 16 Aug 2015 23:28:52 -0700) - [Translate the usermin page](/archive/2015/08/a98749da0ee8beea73aa064d4738643f33bb86ba27331c4fda34c888c29bd596) - _Luis Alberto Guzman Garcia \<l.***g@gmail.com\>_
+  + 2015-08-22 (Sat, 22 Aug 2015 23:14:16 -0700) - [Re: Translate the usermin page](/archive/2015/08/9f44c481154eec5805500ae1a7f1da21e47b3a159ee0063b3d7f8b3569611910) - _Domingo Gómez \<do***s@gmail.com\>_
+    + 2015-08-23 (Sun, 23 Aug 2015 02:39:02 -0500) - Re: [GRASE-Hotspot] Re: Translate the usermin page - _Luis Alberto \<l.***g@gmail.com\>_
+  + 2015-08-23 (Sun, 23 Aug 2015 10:15:24 +0000) - [Re: [GRASE-Hotspot] Translate the usermin page](/archive/2015/08/6d3d45f6aef375530747a062ff0c1239e1e25b5e0f8f4c453261d75be8558bcf) - _Timothy White \<ti***8@gmail.com\>_
+    + 2015-08-23 (Sun, 23 Aug 2015 07:22:27 -0500) - [Re: [GRASE-Hotspot] Translate the usermin page](/archive/2015/08/fa607905611ac2697b453b40b2adaa4dc96098b4ffb629dcac1e4acc58357886) - _Luis Alberto \<l.***g@gmail.com\>_
+

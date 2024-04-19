@@ -1,0 +1,41 @@
+---
+layout: default
+title: >
+    2014-08-20 - Request loginpage for Mobile devices
+---
+
+# 2014-08-20 - Request loginpage for Mobile devices
+
+## Header Data
+
+From: Stefan Kneip \<st***e@gmail.com\><br>
+Message Hash: 54f02bc1185fde27d435c5fb4bd2fe76c9eaffecb297b720654adebaa31f8fad<br>
+Message ID: \<ac7cc964-10c3-4172-9ee5-85fa08d44cf9@grasehotspot.org\><br>
+Reply To: _N/A_<br>
+UTC Datetime: 2014-08-20 01:34:54 UTC<br>
+Raw Date: Wed, 20 Aug 2014 01:34:54 -0700<br>
+
+## Raw message
+
+```
+{% raw  %}Is it possible to use extra loginpage for mobile devices ?
+ 
+ 
+greets Stefan
+ 
+ 
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 2014](/archive/2014/08)
+
++ Return to "[Pilosopong Tasyo <pi***7<span>@</span>gmail.com>](/authors/pi___7_at_gmail_com)"
++ Return to "[Eliot Ness <sc***7<span>@</span>googlemail.com>](/authors/sc___7_at_googlemail_com)"
++ Return to "[Stefan Kneip <st***e<span>@</span>gmail.com>](/authors/st___e_at_gmail_com)"
+
++ 2014-08-20 (Wed, 20 Aug 2014 01:34:54 -0700) - Request loginpage for Mobile devices - _Stefan Kneip \<st***e@gmail.com\>_
+  + 2014-08-22 (Fri, 22 Aug 2014 14:53:04 -0700) - [Re: Request loginpage for Mobile devices](/archive/2014/08/e84d6d039a16ed7e8c196a57ee2b62017acaf935659577e928b897883d3ff4bc) - _Eliot Ness \<sc***7@googlemail.com\>_
+  + 2014-08-22 (Fri, 22 Aug 2014 18:52:51 -0700) - [Re: Request loginpage for Mobile devices](/archive/2014/08/d2f1f8068cbcc2891d7166945bb750e5685e9d90c96f283a19c453afe628361e) - _Pilosopong Tasyo \<pi***7@gmail.com\>_
+

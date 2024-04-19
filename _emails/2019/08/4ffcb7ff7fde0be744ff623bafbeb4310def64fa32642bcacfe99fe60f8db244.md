@@ -1,0 +1,79 @@
+---
+layout: default
+title: >
+    2019-08-09 - Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message
+---
+
+# 2019-08-09 - Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message
+
+## Header Data
+
+From: Tim \<ti***8@gmail.com\><br>
+Message Hash: 4ffcb7ff7fde0be744ff623bafbeb4310def64fa32642bcacfe99fe60f8db244<br>
+Message ID: \<CAESLx0Jq=knp=JxigL9uzb=H8jYxptKKzZjaiKXGpO5TMuiHaQ@mail.gmail.com\><br>
+Reply To: \<23874de0-0fe3-4bfd-b72b-4e66b0750e91@grasehotspot.org\><br>
+UTC Datetime: 2019-08-09 03:44:52 UTC<br>
+Raw Date: Fri, 09 Aug 2019 20:44:52 +1000<br>
+
+## Raw message
+
+```
+{% raw  %}Have you tried rebooting it again? Also try restarting the coova-chilli
+service.
+
+Regards
+
+Tim
+
+On Fri, 9 Aug 2019 at 20:10, honeybadger <re***r@gmail.com> wrote:
+
+> Hi after a power failure users are unable to login in, after typing the
+> Voucher user name and password it goes to attempting to login and just
+> jumps back to the login in screen with no errors. Also I noticed that Coova
+> Chilli is stuck at Changes pending reload.
+>
+> I hope someone can help?
+>
+> --
+> This mailing list is for the Grase Hotspot Project http://grasehotspot.org
+> ---
+> You received this message because you are subscribed to the Google Groups
+> "Grase Hotspot" group.
+> To unsubscribe from this group and stop receiving emails from it, send an
+> email to gr***e@grasehotspot.org.
+> To view this discussion on the web visit
+> https://groups.google.com/a/grasehotspot.org/d/msgid/grase-hotspot/23874de0-0fe3-4bfd-b72b-4e66b0750e91%40grasehotspot.org
+> <https://groups.google.com/a/grasehotspot.org/d/msgid/grase-hotspot/23874de0-0fe3-4bfd-b72b-4e66b0750e91%40grasehotspot.org?utm_medium=email&utm_source=footer>
+> .
+>
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 2019](/archive/2019/08)
+
++ Return to "[Daniel Crusoe <di***n<span>@</span>gmail.com>](/authors/di___n_at_gmail_com)"
++ Return to "[christopher <me***e<span>@</span>pc-networking-services.com>](/authors/me___e_at_pcnetworkingservices_com)"
++ Return to "[honeybadger <re***r<span>@</span>gmail.com>](/authors/re___r_at_gmail_com)"
++ Return to "[Tim <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
++ Return to "[tomas213 <to***3<span>@</span>gmail.com>](/authors/to___3_at_gmail_com)"
+
++ 2019-08-09 (Fri, 09 Aug 2019 03:10:30 -0700) - [coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/394de874fff719b84a94aedcd1552a922ca4dbaacd5627572588f7314cdac57f) - _honeybadger \<re***r@gmail.com\>_
+  + 2019-08-09 (Fri, 09 Aug 2019 20:44:52 +1000) - Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message - _Tim \<ti***8@gmail.com\>_
+    + 2019-08-09 (Fri, 09 Aug 2019 08:07:53 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/2619308e365571d4e6b743cf92af2329c829a4ee27dd00a9d8ea336a36e4686d) - _honeybadger \<re***r@gmail.com\>_
+      + 2019-08-11 (Mon, 12 Aug 2019 00:33:49 +0200) - [RE: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/a910631ce581f18d4b17898c5e55e98635d85729854e4b0e21b0eb88ced474a7) - _Daniel Crusoe \<di***n@gmail.com\>_
+        + 2019-08-12 (Mon, 12 Aug 2019 10:47:05 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/4d5fbac023227041434abdbecb84524ee6ee81a7bd8ae563dca11b4ab84fe0ff) - _honeybadger \<re***r@gmail.com\>_
+          + 2019-08-12 (Mon, 12 Aug 2019 11:39:25 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/96a3051ad5bf4c3766bb3df262e7d51ba4fcd30eb603cd1b46ce0adbb7fc2f86) - _christopher \<me***e@pc-networking-services.com\>_
+            + 2019-08-12 (Mon, 12 Aug 2019 13:20:16 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/aecd31fb29323ffb25136f41d031891f5c837490a0d091c94069969aacd9bf88) - _honeybadger \<re***r@gmail.com\>_
+              + 2019-08-12 (Mon, 12 Aug 2019 13:38:09 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/3c2e362bc180ecd2e35341ef59947ebb4d3e0bff3b8e32910ed9c3eac645a676) - _honeybadger \<re***r@gmail.com\>_
+              + 2019-08-12 (Tue, 13 Aug 2019 00:06:46 +0300) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/179ec9e5dfaf7583a61ef1a527aca8633d48f227d626dfbd86758c3acd97f925) - _tomas213 \<to***3@gmail.com\>_
+                + 2019-08-12 (Mon, 12 Aug 2019 23:38:36 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/cff30b9291ec16e55ded334d19b6f6ab6a7b1c9fd9289322e9c7484ee52857e8) - _honeybadger \<re***r@gmail.com\>_
+                  + 2019-08-13 (Tue, 13 Aug 2019 00:15:38 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/ab4d7e878c015ec112a6de977df29654e2cd1dce02cf6583132cb08eca572f2f) - _honeybadger \<re***r@gmail.com\>_
+                    + 2019-08-13 (Tue, 13 Aug 2019 01:18:21 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/e120023b46b28529a0333490d312803f9e31bebbb3d0bb617aac0e3d47855b81) - _christopher \<me***e@pc-networking-services.com\>_
+                      + 2019-08-13 (Tue, 13 Aug 2019 01:42:25 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/12895d8f6be8ca30e3a935aeeef6d0b4ce996911e2a9980be4c024e8d371f719) - _christopher \<me***e@pc-networking-services.com\>_
+                        + 2019-08-13 (Tue, 13 Aug 2019 02:14:37 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/011464b1af0f2e46e7c9c59cd6d791c311d7032084096772ec5ef720fc9d9552) - _honeybadger \<re***r@gmail.com\>_
+                          + 2019-08-13 (Tue, 13 Aug 2019 02:21:55 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/1ae449312a4e63a65fd617868df021458f1b10b5126c1d117b13814b0c23a2a7) - _christopher \<me***e@pc-networking-services.com\>_
+                            + 2019-08-13 (Tue, 13 Aug 2019 02:54:22 -0700) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/3422fc50e275976b17491358df5c0b171833764d324c05cad179d1a23b8ca6a7) - _honeybadger \<re***r@gmail.com\>_
+                              + 2019-08-13 (Wed, 14 Aug 2019 11:02:34 +1000) - [Re: [GRASE-Hotspot] coovachilli stuck at pending reload, vouchers do not log in no error message](/archive/2019/08/9810ec0b3eb01b1735530f1bcd898c98fbcd058f2c8864be59897a7b1ae7f57e) - _Tim \<ti***8@gmail.com\>_
+

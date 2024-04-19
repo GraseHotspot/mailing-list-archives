@@ -1,0 +1,114 @@
+---
+layout: default
+title: >
+    2015-11-14 - Re: [GRASE-Hotspot] Re: New install and problems dnsmasq
+---
+
+# 2015-11-14 - Re: [GRASE-Hotspot] Re: New install and problems dnsmasq
+
+## Header Data
+
+From: Timothy White \<ti***8@gmail.com\><br>
+Message Hash: 2f126a490dc9c0f45ea5bd89aff1ade81d82dd5dc8e7bccfa39398a2c03c2fff<br>
+Message ID: \<CAESLx0L0ENZRxN1rRKqM8cVDOvfouXSfXXfQOXxdR12peypkfA@mail.gmail.com\><br>
+Reply To: \<CAESLx0JaKUL4vRwDLuspEPAg-xM02CTBDPyObXcazHybGc8bug@mail.gmail.com\><br>
+UTC Datetime: 2015-11-14 03:14:15 UTC<br>
+Raw Date: Sat, 14 Nov 2015 20:14:15 +1000<br>
+
+## Raw message
+
+```
+{% raw  %}Seems the documentation at
+http://grasehotspot.org/documentation/nightly-builds/ is correct for the
+next stable release
+
+On Sat, Nov 14, 2015 at 10:37 AM, Timothy White <ti***8@gmail.com>
+wrote:
+
+> Hi Jean
+>
+> Just exclude the grase-conf-squid3 from the apt-get install line. I'll
+> update the documentation shortly.
+>
+> Regards
+>
+> Tim
+>
+> On Sun, Nov 8, 2015 at 12:07 PM, Jean Létourneau <ve***t@gmail.com> wrote:
+>
+>>
+>> On Fri, Nov 6, 2015 at 2:46 PM, Timothy White <ti***8@gmail.com>
+>> wrote:
+>>
+>>> Hi Jean
+>>>
+>>> You can also just uninstall bind9
+>>>
+>>> Regards
+>>>
+>>
+>> ​I Tim,
+>>    I did uninstall Bind9, and scraped something, it stop working, so I
+>> decided to re-install it all and now I get this error:
+>>
+>> Package grase-conf-squid3 is a virtual package provided by:
+>>   grase-conf-squid3-3.3 1.6.12.g99d90cf
+>>   grase-conf-squid3-3.1 1.6.12.g99d90cf
+>> You should explicitly select one to install.
+>>
+>> E: Package 'grase-conf-squid3' has no installation candidate
+>>
+>> it his could resolve from the problem you had at your end?
+>>
+>> Jean
+>>
+>> --
+>> This mailing list is for the Grase Hotspot Project
+>> http://grasehotspot.org
+>> ---
+>> You received this message because you are subscribed to the Google Groups
+>> "Grase Hotspot" group.
+>> To unsubscribe from this group and stop receiving emails from it, send an
+>> email to gr***e@grasehotspot.org.
+>> To post to this group, send email to gr***t@grasehotspot.org.
+>> Visit this group at
+>> http://groups.google.com/a/grasehotspot.org/group/grase-hotspot/.
+>> To view this discussion on the web visit
+>> https://groups.google.com/a/grasehotspot.org/d/msgid/grase-hotspot/CACJdL0MmAQoXmBh5mf6k8G1MiKVnLH5uTwq4-5CnBJLg9zb%2B1A%40mail.gmail.com
+>> <https://groups.google.com/a/grasehotspot.org/d/msgid/grase-hotspot/CACJdL0MmAQoXmBh5mf6k8G1MiKVnLH5uTwq4-5CnBJLg9zb%2B1A%40mail.gmail.com?utm_medium=email&utm_source=footer>
+>> .
+>>
+>
+>
+{% endraw %}
+```
+
+## Thread
+
++ Return to [November 2015](/archive/2015/11)
+
++ Return to "[daryl titcomb <da***b<span>@</span>gmail.com>](/authors/da___b_at_gmail_com)"
++ Return to "[Thomas Heil <he***l<span>@</span>terminal-consulting.de>](/authors/he___l_at_terminalconsulting_de)"
++ Return to "[Vusumzi Ndzengu <nd***v<span>@</span>gmail.com>](/authors/nd___v_at_gmail_com)"
++ Return to "[Timothy White <ti***8<span>@</span>gmail.com>](/authors/ti___8_at_gmail_com)"
++ Return to "[Jean Létourneau <ve***t<span>@</span>gmail.com>](/authors/ve___t_at_gmail_com)"
+
++ 2015-11-04 (Wed, 04 Nov 2015 18:16:13 -0500) - [New install and problems dnsmasq](/archive/2015/11/10c076b2a93726bb2945627806a3da21c60d496d6877fdf92d1a9e4690ecc04d) - _Jean Létourneau \<ve***t@gmail.com\>_
+  + 2015-11-04 (Thu, 05 Nov 2015 16:17:11 +1000) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/2bbd544ae384016994657da2ed29d91127b97366a1ddb7458beb55256ab46fa7) - _Timothy White \<ti***8@gmail.com\>_
+    + 2015-11-05 (Thu, 05 Nov 2015 06:21:07 -0500) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/19d4fb613667444b38fb5daa572cd441ca7d6d8cae260edbd37f2f7bf3778374) - _Jean Létourneau \<ve***t@gmail.com\>_
+      + 2015-11-05 (Thu, 05 Nov 2015 21:25:33 +1000) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/4e832a0c57713e4ae3b1887cbf4e701517e50650b21f7c97f01c6817ed9303c2) - _Timothy White \<ti***8@gmail.com\>_
+        + 2015-11-05 (Thu, 05 Nov 2015 12:37:57 -0500) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/93d51cc53306f3c76905293781d790e577f8ce147d2e5606d2af0fad8c678daf) - _Jean Létourneau \<ve***t@gmail.com\>_
+  + 2015-11-05 (Thu, 05 Nov 2015 09:10:58 +0000) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/858257822c66decbd1a7f79319e8a67fd623bccc85dad86d8b6b4e3f1180e968) - _daryl titcomb \<da***b@gmail.com\>_
+  + 2015-11-05 (Thu, 05 Nov 2015 13:35:54 +0100) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/6769abdfb6c932a30c637394ea05f925c2aec2491405b1d47d6c7ac9d3dfab67) - _Thomas Heil \<he***l@terminal-consulting.de\>_
+    + 2015-11-05 (Thu, 05 Nov 2015 13:12:10 -0500) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/eae20940bf869229df6df73fb55119c1905f5b941a8fb40d67563dbc26ce2fb6) - _Jean Létourneau \<ve***t@gmail.com\>_
+      + 2015-11-05 (Thu, 05 Nov 2015 20:59:52 +0100) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/4453f38aa4cb88cb1a5c432d6d107c60ff66e8b537d210cf7fcbaa7614273c90) - _Thomas Heil \<he***l@terminal-consulting.de\>_
+        + 2015-11-05 (Thu, 05 Nov 2015 15:09:56 -0500) - [Re: [GRASE-Hotspot] New install and problems dnsmasq](/archive/2015/11/717b4bc81525091d701a034af25a704b53e35fa47a3c3379ea4c3cb274d56cdc) - _Jean Létourneau \<ve***t@gmail.com\>_
+  + 2015-11-05 (Thu, 05 Nov 2015 16:18:48 -0800) - [Re: New install and problems dnsmasq](/archive/2015/11/525856b910414efca3300e5d4e0cb987e68806c4fa9a6ccd1d6b89fe6432f5d2) - _Jean Létourneau \<ve***t@gmail.com\>_
+    + 2015-11-06 (Fri, 06 Nov 2015 22:37:12 +1000) - [Re: [GRASE-Hotspot] Re: New install and problems dnsmasq](/archive/2015/11/4234332588558af4c1b58db2c120ceb2b768c708829abef04077329bca88e818) - _Timothy White \<ti***8@gmail.com\>_
+      + 2015-11-06 (Fri, 06 Nov 2015 10:45:01 -0500) - [Re: [GRASE-Hotspot] Re: New install and problems dnsmasq](/archive/2015/11/117bceebee1f60cf89858dc2c0a5aec18b494ae200f780accc1801dfd21290f5) - _Jean Létourneau \<ve***t@gmail.com\>_
+        + 2015-11-06 (Sat, 07 Nov 2015 05:46:08 +1000) - [Re: [GRASE-Hotspot] Re: New install and problems dnsmasq](/archive/2015/11/1e61727d1f945f61f8820fbb248c12a2a7223e3b24b8056d1c67b8ee2ca97d66) - _Timothy White \<ti***8@gmail.com\>_
+          + 2015-11-07 (Sat, 07 Nov 2015 21:07:04 -0500) - [Re: [GRASE-Hotspot] Re: New install and problems dnsmasq](/archive/2015/11/c6652d87156ffcdb56e10a2633ae6d0c9230c3e300f4b2fde2f91bd83822a47c) - _Jean Létourneau \<ve***t@gmail.com\>_
+            + 2015-11-12 (Thu, 12 Nov 2015 16:02:51 -0800) - [Re: [GRASE-Hotspot] Re: New install and problems dnsmasq](/archive/2015/11/ef3e511f5014687d43365a9fca83388f1fb3b6e8eba7a63a2da7eb6ff084fdee) - _Vusumzi Ndzengu \<nd***v@gmail.com\>_
+            + 2015-11-13 (Sat, 14 Nov 2015 10:37:44 +1000) - [Re: [GRASE-Hotspot] Re: New install and problems dnsmasq](/archive/2015/11/94a2dc3275960e8cc3f5a613f0570abac103712a4f5b0e66a6d5b4ad17da28f5) - _Timothy White \<ti***8@gmail.com\>_
+              + 2015-11-14 (Sat, 14 Nov 2015 20:14:15 +1000) - Re: [GRASE-Hotspot] Re: New install and problems dnsmasq - _Timothy White \<ti***8@gmail.com\>_
+
